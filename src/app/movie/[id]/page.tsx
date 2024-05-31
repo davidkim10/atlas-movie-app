@@ -18,9 +18,6 @@ const MoviePage: FC<PageProps> = async ({ params }) => {
 
   const { title, tagline, overview, release_date, poster_path, backdrop_path } = movie;
   const heroImg = getVideoImage(backdrop_path || poster_path, true);
-  // const movieImg = getVideoImage(poster_path, false);
-
-  console.log(movie);
 
   return (
     <>
