@@ -13,7 +13,7 @@ const Header: FC<HeaderProps> = () => {
       <div className="mr-5">
         <Link href="/">
           <Image
-            src="/logo.webp"
+            src="/logo-s-xs.webp"
             alt="logo"
             width={40}
             height={40}
