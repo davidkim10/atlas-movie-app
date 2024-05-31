@@ -1,4 +1,6 @@
-# Atlas - Find the your next flick for movie night
+# Atlas - Find your next flick for movie night
+
+Atlas allows you to quickly find the perfect flick for movie night. Search upcoming, popular, and top rated movies. UI inspired by Disney+ and Netflix.
 
 <img src="./public/preview.png">
 
