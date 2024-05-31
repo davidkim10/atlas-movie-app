@@ -1,0 +1,8 @@
+.heroCarousel:after {
+  content: '';
+  bottom: 0;
+  height: 24%;
+  width: 100%;
+  position: absolute;
+  background: linear-gradient(to bottom, #e5e7eb00, #03030440, #1a1c29);
+}
